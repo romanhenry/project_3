@@ -18,7 +18,7 @@ public function __construct($args=[]) {
   $this->contractLength = $args['contractLength'] ?? '';
   $this->paymentAmt = $args['paymentAmt'] ?? '';
   $this->blogid = $args['blogid'] ?? '';
-  
+
 }
 
 
