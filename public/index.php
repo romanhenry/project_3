@@ -34,7 +34,7 @@ if(is_post_request()){
     <header>
       <div class="container">
         <div id="branding">
-          <h1><span class="highlight">Blog</span> Manager</h1>
+          <h1><span class="highlight">Retirement</span> Calculator</h1>
         </div>
         <nav>
 
