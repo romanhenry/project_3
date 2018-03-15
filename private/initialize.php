@@ -29,12 +29,13 @@
   // -> Individually
   require_once('classes/databaseobject.class.php');
   require_once('classes/user.class.php');
-  require_once('classes/blog.class.php');
-  require_once('classes/contract.class.php');
+  require_once('classes/bank.class.php');
+  require_once('classes/account.class.php');
+  require_once('classes/fund.class.php');
   require_once('classes/session.class.php');
 
 
-  
+
 
   // -> All classes in directory
   foreach(glob('classes/*.class.php') as $file) {
